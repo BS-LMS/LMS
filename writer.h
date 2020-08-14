@@ -9,7 +9,8 @@ class writer:public human
 private:
     QString nationality;
 public:
-    int qqssw;
+    int qqssw=4;
+    cout<<qqssw<<endl;
     writer();
     writer(QString _name,QString _family, date _birth_date,QString ns);
     QString getNationality();
