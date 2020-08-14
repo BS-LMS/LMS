@@ -3,6 +3,13 @@
 
 date::date()
 {
+
+    int pp=19029;
+    cout<<pp<<endl;
+    while(int i=0){
+
+    break;
+ }
     day=month=year=0;
 }
 
