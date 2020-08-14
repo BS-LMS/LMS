@@ -9,11 +9,11 @@ class writer:public human
 private:
     QString nationality;
 public:
-    int qqqq;
+    int qqssw;
     writer();
     writer(QString _name,QString _family, date _birth_date,QString ns);
     QString getNationality();
-    void setNationality(QString sn);
+    void setNationality(QString snpppppp);
 };
 
 #endif // WRITER_H
